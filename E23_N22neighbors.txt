@@ -1,0 +1,385 @@
+fig|155862.2.peg.294	fig|155862.2.peg.291	-3	155862.2.Ga0150972_1084	7869	8495	+	 molybdenum cofactor guanylyltransferase_Ga0150972_108412
+fig|155862.2.peg.294	fig|155862.2.peg.293	-2	155862.2.Ga0150972_1084	10205	8919	-	CDP-L-myo-inositol myo-inositolphosphotransferase_Ga0150972_108414
+fig|155862.2.peg.294	fig|155862.2.peg.292	-1	155862.2.Ga0150972_1084	8500	8922	+	Membrane protein implicated in regulation of membrane protease activity_Ga0150972_108413
+fig|155862.2.peg.294	fig|155862.2.peg.294	0	155862.2.Ga0150972_1084	11279	10230	-	hypothetical protein_Ga0150972_108415
+fig|155862.2.peg.294	fig|155862.2.peg.295	1	155862.2.Ga0150972_1084	12090	11356	-	ein phosphatase_Ga0150972_108416
+fig|155862.2.peg.294	fig|155862.2.peg.296	2	155862.2.Ga0150972_1084	14526	12121	-	Serine/threonine protein kinase_Ga0150972_108417
+fig|155862.2.peg.294	fig|155862.2.peg.297	3	155862.2.Ga0150972_1084	15720	14551	-	Vps4 C terminal oligomerisation domain-containing protein_Ga0150972_108418
+fig|155862.5.peg.316	fig|155862.5.peg.313	-3	155862.5.Ga0150975_1349	4874	4062	-	 2-oxoglutarate ferredoxin oxidoreductase, beta subuni_Ga0150975_13495
+fig|155862.5.peg.316	fig|155862.5.peg.314	-2	155862.5.Ga0150975_1349	5746	4952	-	hypothetical protein_Ga0150975_13496
+fig|155862.5.peg.316	fig|155862.5.peg.315	-1	155862.5.Ga0150975_1349	6478	5759	-	hypothetical protein_Ga0150975_13497
+fig|155862.5.peg.316	fig|155862.5.peg.316	0	155862.5.Ga0150975_1349	6681	7730	+	hypothetical protein_Ga0150975_13498
+fig|155862.5.peg.316	fig|155862.5.peg.317	1	155862.5.Ga0150975_1349	8588	9874	+	CDP-L-myo-inositol myo-inositolphosphotransferase_Ga0150975_13499
+fig|155862.5.peg.316	fig|155862.5.peg.318	2	155862.5.Ga0150975_1349	11466	10384	-	 carbohydrate ABC transporter ATP-binding protein, CUT1 family_Ga0150975_134910
+fig|155862.5.peg.316	fig|155862.5.peg.319	3	155862.5.Ga0150975_1349	12346	11471	-	 carbohydrate ABC transporter membrane protein 2, CUT1 family_Ga0150975_134911
+fig|155862.5.peg.274	fig|155862.5.peg.271	-3	155862.5.Ga0150975_1327	49771	49983	+	hypothetical protein_Ga0150975_132748
+fig|155862.5.peg.274	fig|155862.5.peg.272	-2	155862.5.Ga0150975_1327	51248	50718	-	 LSU ribosomal protein L10AE_Ga0150975_132749
+fig|155862.5.peg.274	fig|155862.5.peg.273	-1	155862.5.Ga0150975_1327	53361	51322	-	Lon-like ATP-dependent protease_Ga0150975_132750
+fig|155862.5.peg.274	fig|155862.5.peg.274	0	155862.5.Ga0150975_1327	53959	53408	-	 Hydrogenase 3 maturation peptidase Hycl. Aspartic peptidase. MEROPS family A31_Ga0150975_132751
+fig|155862.5.peg.274	fig|155862.5.peg.275	1	155862.5.Ga0150975_1327	54308	54667	+	 membrane-bound hydrogenase subunit ehbE_Ga0150975_132752
+fig|155862.5.peg.274	fig|155862.5.peg.277	2	155862.5.Ga0150975_1327	57098	56067	-	 hydroxymethylglutaryl-CoA synthase_Ga0150975_132754
+fig|155862.5.peg.274	fig|155862.5.peg.276	3	155862.5.Ga0150975_1327	54679	56211	+	 membrane-bound hydrogenase subunit ehbF_Ga0150975_132753
+fig|155862.2.peg.918	fig|155862.2.peg.916	-2	155862.2.Ga0150972_1224	2	130	+	hypothetical protein_Ga0150972_12241
+fig|155862.2.peg.918	fig|155862.2.peg.917	-1	155862.2.Ga0150972_1224	1076	165	-	lon-related putative ATP-dependent protease_Ga0150972_12242
+fig|155862.2.peg.918	fig|155862.2.peg.918	0	155862.2.Ga0150972_1224	1425	1102	-	hydrogenase maturation protease HycI_Ga0150972_12243
+fig|155862.2.peg.280	fig|155862.2.peg.280	0	155862.2.Ga0150972_1084	1	861	+	Myo-inositol-1-phosphate synthase_Ga0150972_10841
+fig|155862.2.peg.280	fig|155862.2.peg.281	1	155862.2.Ga0150972_1084	892	1644	+	TatD DNase family protein_Ga0150972_10842
+fig|155862.2.peg.280	fig|155862.2.peg.282	2	155862.2.Ga0150972_1084	1654	1956	+	hypothetical protein_Ga0150972_10843
+fig|155862.2.peg.280	fig|155862.2.peg.283	3	155862.2.Ga0150972_1084	1958	2512	+	hypothetical protein_Ga0150972_10844
+fig|155862.5.peg.322	fig|155862.5.peg.319	-3	155862.5.Ga0150975_1349	12346	11471	-	 carbohydrate ABC transporter membrane protein 2, CUT1 family_Ga0150975_134911
+fig|155862.5.peg.322	fig|155862.5.peg.320	-2	155862.5.Ga0150975_1349	13293	12346	-	 carbohydrate ABC transporter membrane protein 1, CUT1 family_Ga0150975_134912
+fig|155862.5.peg.322	fig|155862.5.peg.321	-1	155862.5.Ga0150975_1349	14943	13306	-	 carbohydrate ABC transporter substrate-binding protein, CUT1 family_Ga0150975_134913
+fig|155862.5.peg.322	fig|155862.5.peg.322	0	155862.5.Ga0150975_1349	15220	16371	+	myo-inositol-1-phosphate synthase_Ga0150975_134914
+fig|155862.5.peg.322	fig|155862.5.peg.323	1	155862.5.Ga0150975_1349	16658	16455	-	ferrous iron transport protein A_Ga0150975_134915
+fig|155862.5.peg.322	fig|155862.5.peg.324	2	155862.5.Ga0150975_1349	18641	16683	-	ferrous iron transport protein B_Ga0150975_134916
+fig|155862.2.peg.801	fig|155862.2.peg.799	-3	155862.2.Ga0150972_1199	51635	52162	+	PLD-like domain-containing protein_Ga0150972_119952
+fig|155862.2.peg.801	fig|155862.2.peg.800	-2	155862.2.Ga0150972_1199	52128	54644	+	SNF2 family N-terminal domain-containing protein_Ga0150972_119953
+fig|155862.2.peg.801	fig|155862.2.peg.802	-1	155862.2.Ga0150972_1199	58442	58104	-	Uncharacterized membrane protein_Ga0150972_119955
+fig|155862.2.peg.801	fig|155862.2.peg.801	0	155862.2.Ga0150972_1199	54655	58107	+	Type II restriction/modification system, DNA methylase subunit YeeA_Ga0150972_119954
+fig|155862.2.peg.801	fig|155862.2.peg.803	1	155862.2.Ga0150972_1199	58512	58919	+	5S rRNA maturation endonuclease (Ribonuclease M5), contains TOPRIM domain_Ga0150972_119956
+fig|155862.2.peg.801	fig|155862.2.peg.805	2	155862.2.Ga0150972_1199	60368	59553	-	iron complex transport system ATP-binding protein_Ga0150972_119958
+fig|155862.2.peg.801	fig|155862.2.peg.804	3	155862.2.Ga0150972_1199	58924	59610	+	 2,5-diamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one reductase_Ga0150972_119957
+fig|155862.5.peg.486	fig|155862.5.peg.485	-1	155862.5.Ga0150975_1620	2	346	+	hypothetical protein_Ga0150975_16201
+fig|155862.5.peg.486	fig|155862.5.peg.486	0	155862.5.Ga0150975_1620	404	3655	+	TaqI-like C-terminal specificity domain-containing protein_Ga0150975_16202
+fig|155862.5.peg.486	fig|155862.5.peg.487	1	155862.5.Ga0150975_1620	4038	3700	-	Uncharacterized membrane protein_Ga0150975_16203
+fig|155862.5.peg.486	fig|155862.5.peg.488	2	155862.5.Ga0150975_1620	4251	4658	+	5S rRNA maturation endonuclease (Ribonuclease M5), contains TOPRIM domain_Ga0150975_16204
+fig|155862.5.peg.486	fig|155862.5.peg.489	3	155862.5.Ga0150975_1620	4705	5355	+	 2,5-diamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one reductase_Ga0150975_16205
+fig|155862.2.peg.866	fig|155862.2.peg.863	-3	155862.2.Ga0150972_1203	22818	23468	+	ein-L-isoaspartate(D-aspartate) O-methyltransferase_Ga0150972_120324
+fig|155862.2.peg.866	fig|155862.2.peg.864	-2	155862.2.Ga0150972_1203	23508	23753	+	small redox-active disulfide protein 2_Ga0150972_120325
+fig|155862.2.peg.866	fig|155862.2.peg.865	-1	155862.2.Ga0150972_1203	23763	24152	+	Predicted metal-binding protein_Ga0150972_120326
+fig|155862.2.peg.866	fig|155862.2.peg.866	0	155862.2.Ga0150972_1203	24186	25643	+	hypothetical protein_Ga0150972_120327
+fig|155862.2.peg.866	fig|155862.2.peg.867	1	155862.2.Ga0150972_1203	27968	25644	-	 replicative DNA polymerase I_Ga0150972_120328
+fig|155862.2.peg.866	fig|155862.2.peg.868	2	155862.2.Ga0150972_1203	28072	28500	+	ansporter family protein_Ga0150972_120329
+fig|155862.2.peg.866	fig|155862.2.peg.869	3	155862.2.Ga0150972_1203	28560	29081	+	hypothetical protein_Ga0150972_120330
+fig|155862.5.peg.636	fig|155862.5.peg.633	-3	155862.5.Ga0150975_1768	3198	2896	-	Uncharacterized membrane protein, Fun14 family_Ga0150975_17684
+fig|155862.5.peg.636	fig|155862.5.peg.634	-2	155862.5.Ga0150975_1768	3921	3226	-	hypothetical protein_Ga0150975_17685
+fig|155862.5.peg.636	fig|155862.5.peg.635	-1	155862.5.Ga0150975_1768	4570	3941	-	 precorrin-6Y C5,15-methyltransferase (decarboxylating)_Ga0150975_17686
+fig|155862.5.peg.636	fig|155862.5.peg.636	0	155862.5.Ga0150975_1768	6059	4581	-	hypothetical protein_Ga0150975_17687
+fig|155862.5.peg.636	fig|155862.5.peg.637	1	155862.5.Ga0150975_1768	6503	6162	-	Predicted metal-binding protein_Ga0150975_17688
+fig|155862.5.peg.273	fig|155862.5.peg.270	-3	155862.5.Ga0150975_1327	48503	49774	+	UbiD family decarboxylase_Ga0150975_132747
+fig|155862.5.peg.273	fig|155862.5.peg.271	-2	155862.5.Ga0150975_1327	49771	49983	+	hypothetical protein_Ga0150975_132748
+fig|155862.5.peg.273	fig|155862.5.peg.272	-1	155862.5.Ga0150975_1327	51248	50718	-	 LSU ribosomal protein L10AE_Ga0150975_132749
+fig|155862.5.peg.273	fig|155862.5.peg.273	0	155862.5.Ga0150975_1327	53361	51322	-	Lon-like ATP-dependent protease_Ga0150975_132750
+fig|155862.5.peg.273	fig|155862.5.peg.274	1	155862.5.Ga0150975_1327	53959	53408	-	 Hydrogenase 3 maturation peptidase Hycl. Aspartic peptidase. MEROPS family A31_Ga0150975_132751
+fig|155862.5.peg.273	fig|155862.5.peg.275	2	155862.5.Ga0150975_1327	54308	54667	+	 membrane-bound hydrogenase subunit ehbE_Ga0150975_132752
+fig|155862.5.peg.273	fig|155862.5.peg.277	3	155862.5.Ga0150975_1327	57098	56067	-	 hydroxymethylglutaryl-CoA synthase_Ga0150975_132754
+fig|155862.2.peg.917	fig|155862.2.peg.916	-1	155862.2.Ga0150972_1224	2	130	+	hypothetical protein_Ga0150972_12241
+fig|155862.2.peg.917	fig|155862.2.peg.917	0	155862.2.Ga0150972_1224	1076	165	-	lon-related putative ATP-dependent protease_Ga0150972_12242
+fig|155862.2.peg.917	fig|155862.2.peg.918	1	155862.2.Ga0150972_1224	1425	1102	-	hydrogenase maturation protease HycI_Ga0150972_12243
+fig|155862.2.peg.650	fig|155862.2.peg.647	-3	155862.2.Ga0150972_1159	52068	53210	+	Glycosyltransferase involved in cell wall bisynthesis_Ga0150972_115950
+fig|155862.2.peg.650	fig|155862.2.peg.648	-2	155862.2.Ga0150972_1159	53207	54319	+	Glycosyltransferase involved in cell wall bisynthesis_Ga0150972_115951
+fig|155862.2.peg.650	fig|155862.2.peg.649	-1	155862.2.Ga0150972_1159	54341	55570	+	Glycosyltransferase involved in cell wall bisynthesis_Ga0150972_115952
+fig|155862.2.peg.650	fig|155862.2.peg.650	0	155862.2.Ga0150972_1159	55621	57891	+	Uncharacterized membrane protein_Ga0150972_115953
+fig|155862.2.peg.650	fig|155862.2.peg.651	1	155862.2.Ga0150972_1159	58951	57896	-	hypothetical protein_Ga0150972_115954
+fig|155862.2.peg.650	fig|155862.2.peg.652	2	155862.2.Ga0150972_1159	59917	58964	-	UDP-glucose 4-epimerase_Ga0150972_115955
+fig|155862.2.peg.650	fig|155862.2.peg.653	3	155862.2.Ga0150972_1159	60942	59947	-	glucose-1-phosphate thymidylyltransferase_Ga0150972_115956
+fig|155862.5.peg.305	fig|155862.5.peg.302	-3	155862.5.Ga0150975_1340	9640	10149	+	hypothetical protein_Ga0150975_134012
+fig|155862.5.peg.305	fig|155862.5.peg.303	-2	155862.5.Ga0150975_1340	10170	10712	+	methyltransferase, FkbM family_Ga0150975_134013
+fig|155862.5.peg.305	fig|155862.5.peg.304	-1	155862.5.Ga0150975_1340	10928	12169	+	Glycosyltransferase involved in cell wall bisynthesis_Ga0150975_134014
+fig|155862.5.peg.305	fig|155862.5.peg.305	0	155862.5.Ga0150975_1340	12267	14513	+	Uncharacterized membrane protein_Ga0150975_134015
+fig|155862.5.peg.305	fig|155862.5.peg.306	1	155862.5.Ga0150975_1340	15572	14520	-	hypothetical protein_Ga0150975_134016
+fig|155862.5.peg.305	fig|155862.5.peg.307	2	155862.5.Ga0150975_1340	15787	17025	+	hypothetical protein_Ga0150975_134017
+fig|155862.5.peg.305	fig|155862.5.peg.308	3	155862.5.Ga0150975_1340	17168	18070	+	CMP-N-acetylneuraminic acid synthetase_Ga0150975_134018
+fig|155862.2.peg.293	fig|155862.2.peg.289	-3	155862.2.Ga0150972_1084	7346	6954	-	holliday junction resolvase_Ga0150972_108410
+fig|155862.2.peg.293	fig|155862.2.peg.290	-2	155862.2.Ga0150972_1084	7812	7357	-	ative methanogenesis marker protein 6_Ga0150972_108411
+fig|155862.2.peg.293	fig|155862.2.peg.291	-1	155862.2.Ga0150972_1084	7869	8495	+	 molybdenum cofactor guanylyltransferase_Ga0150972_108412
+fig|155862.2.peg.293	fig|155862.2.peg.293	0	155862.2.Ga0150972_1084	10205	8919	-	CDP-L-myo-inositol myo-inositolphosphotransferase_Ga0150972_108414
+fig|155862.2.peg.293	fig|155862.2.peg.292	1	155862.2.Ga0150972_1084	8500	8922	+	Membrane protein implicated in regulation of membrane protease activity_Ga0150972_108413
+fig|155862.2.peg.293	fig|155862.2.peg.294	2	155862.2.Ga0150972_1084	11279	10230	-	hypothetical protein_Ga0150972_108415
+fig|155862.2.peg.293	fig|155862.2.peg.295	3	155862.2.Ga0150972_1084	12090	11356	-	ein phosphatase_Ga0150972_108416
+fig|155862.5.peg.317	fig|155862.5.peg.314	-3	155862.5.Ga0150975_1349	5746	4952	-	hypothetical protein_Ga0150975_13496
+fig|155862.5.peg.317	fig|155862.5.peg.315	-2	155862.5.Ga0150975_1349	6478	5759	-	hypothetical protein_Ga0150975_13497
+fig|155862.5.peg.317	fig|155862.5.peg.316	-1	155862.5.Ga0150975_1349	6681	7730	+	hypothetical protein_Ga0150975_13498
+fig|155862.5.peg.317	fig|155862.5.peg.317	0	155862.5.Ga0150975_1349	8588	9874	+	CDP-L-myo-inositol myo-inositolphosphotransferase_Ga0150975_13499
+fig|155862.5.peg.317	fig|155862.5.peg.318	1	155862.5.Ga0150975_1349	11466	10384	-	 carbohydrate ABC transporter ATP-binding protein, CUT1 family_Ga0150975_134910
+fig|155862.5.peg.317	fig|155862.5.peg.319	2	155862.5.Ga0150975_1349	12346	11471	-	 carbohydrate ABC transporter membrane protein 2, CUT1 family_Ga0150975_134911
+fig|155862.5.peg.317	fig|155862.5.peg.320	3	155862.5.Ga0150975_1349	13293	12346	-	 carbohydrate ABC transporter membrane protein 1, CUT1 family_Ga0150975_134912
+fig|155862.2.peg.863	fig|155862.2.peg.860	-3	155862.2.Ga0150972_1203	19981	19583	-	Predicted transcriptional regula_Ga0150972_120321
+fig|155862.2.peg.863	fig|155862.2.peg.861	-2	155862.2.Ga0150972_1203	20150	21565	+	 aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B_Ga0150972_120322
+fig|155862.2.peg.863	fig|155862.2.peg.862	-1	155862.2.Ga0150972_1203	21592	22812	+	Predicted arabinose efflux permease, MFS family_Ga0150972_120323
+fig|155862.2.peg.863	fig|155862.2.peg.863	0	155862.2.Ga0150972_1203	22818	23468	+	ein-L-isoaspartate(D-aspartate) O-methyltransferase_Ga0150972_120324
+fig|155862.2.peg.863	fig|155862.2.peg.864	1	155862.2.Ga0150972_1203	23508	23753	+	small redox-active disulfide protein 2_Ga0150972_120325
+fig|155862.2.peg.863	fig|155862.2.peg.865	2	155862.2.Ga0150972_1203	23763	24152	+	Predicted metal-binding protein_Ga0150972_120326
+fig|155862.2.peg.863	fig|155862.2.peg.866	3	155862.2.Ga0150972_1203	24186	25643	+	hypothetical protein_Ga0150972_120327
+fig|155862.5.peg.719	fig|155862.5.peg.716	-3	155862.5.Ga0150975_1824	13349	13741	+	 formylmethanofuran dehydrogenase, subunit D_Ga0150975_182416
+fig|155862.5.peg.719	fig|155862.5.peg.717	-2	155862.5.Ga0150975_1824	13759	15462	+	 formylmethanofuran dehydrogenase, subunit A_Ga0150975_182417
+fig|155862.5.peg.719	fig|155862.5.peg.718	-1	155862.5.Ga0150975_1824	15506	16321	+	 formylmethanofuran dehydrogenase, subunit C_Ga0150975_182418
+fig|155862.5.peg.719	fig|155862.5.peg.719	0	155862.5.Ga0150975_1824	17583	16930	-	ein-L-isoaspartate(D-aspartate) O-methyltransferase_Ga0150975_182419
+fig|155862.5.peg.719	fig|155862.5.peg.720	1	155862.5.Ga0150975_1824	18814	17588	-	Multidrug resistance protein_Ga0150975_182420
+fig|155862.5.peg.719	fig|155862.5.peg.721	2	155862.5.Ga0150975_1824	21144	19729	-	 aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B_Ga0150975_182421
+fig|155862.5.peg.719	fig|155862.5.peg.722	3	155862.5.Ga0150975_1824	21799	22191	+	Predicted transcriptional regula_Ga0150975_182422
+fig|155862.2.peg.133	fig|155862.2.peg.131	-3	155862.2.Ga0150972_1029	6953	5877	-	hydrogenase expression/formation protein HypD_Ga0150972_10295
+fig|155862.2.peg.133	fig|155862.2.peg.130	-2	155862.2.Ga0150972_1029	4600	5880	+	5-methylthioadenosine/S-adenosylhomocysteine deaminase_Ga0150972_10294
+fig|155862.2.peg.133	fig|155862.2.peg.132	-1	155862.2.Ga0150972_1029	8839	7085	-	 O-sialoglycoprotein endopeptidase_Ga0150972_10296
+fig|155862.2.peg.133	fig|155862.2.peg.133	0	155862.2.Ga0150972_1029	10228	8849	-	hypothetical protein_Ga0150972_10297
+fig|155862.2.peg.133	fig|155862.2.peg.134	1	155862.2.Ga0150972_1029	10467	10874	+	iphthine synthase_Ga0150972_10299
+fig|155862.2.peg.133	fig|155862.2.peg.135	2	155862.2.Ga0150972_1029	10927	11232	+	iphthine synthase_Ga0150972_102910
+fig|155862.2.peg.133	fig|155862.2.peg.136	3	155862.2.Ga0150972_1029	11418	11233	-	hypothetical protein_Ga0150972_102911
+fig|155862.5.peg.41	fig|155862.5.peg.38	-3	155862.5.Ga0150975_1013	19237	20535	+	5-methylthioadenosine/S-adenosylhomocysteine deaminase_Ga0150975_101325
+fig|155862.5.peg.41	fig|155862.5.peg.39	-2	155862.5.Ga0150975_1013	22123	21047	-	hydrogenase expression/formation protein HypD_Ga0150975_101326
+fig|155862.5.peg.41	fig|155862.5.peg.40	-1	155862.5.Ga0150975_1013	24063	22303	-	 O-sialoglycoprotein endopeptidase_Ga0150975_101327
+fig|155862.5.peg.41	fig|155862.5.peg.41	0	155862.5.Ga0150975_1013	25452	24073	-	hypothetical protein_Ga0150975_101328
+fig|155862.5.peg.41	fig|155862.5.peg.42	1	155862.5.Ga0150975_1013	26974	27744	+	iphthine synthase_Ga0150975_101330
+fig|155862.5.peg.41	fig|155862.5.peg.43	2	155862.5.Ga0150975_1013	27937	27752	-	hypothetical protein_Ga0150975_101331
+fig|155862.5.peg.41	fig|155862.5.peg.44	3	155862.5.Ga0150975_1013	28267	28082	-	hypothetical protein_Ga0150975_101332
+fig|155862.2.peg.106	fig|155862.2.peg.103	-3	155862.2.Ga0150972_1026	85266	86558	+	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase_Ga0150972_102699
+fig|155862.2.peg.106	fig|155862.2.peg.105	-2	155862.2.Ga0150972_1026	88772	87879	-	 cyclic pyranopterin monophosphate synthase subunit MoaA_Ga0150972_1026101
+fig|155862.2.peg.106	fig|155862.2.peg.104	-1	155862.2.Ga0150972_1026	86610	87884	+	 3-isopropylmalate dehydratase, large subuni_Ga0150972_1026100
+fig|155862.2.peg.106	fig|155862.2.peg.106	0	155862.2.Ga0150972_1026	88863	89504	+	multiple antibiotic resistance protein_Ga0150972_1026102
+fig|155862.2.peg.106	fig|155862.2.peg.107	1	155862.2.Ga0150972_1026	89515	90237	+	 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylidenea mino] imidazole-4-carboxamide isomerase_Ga0150972_1026103
+fig|155862.2.peg.106	fig|155862.2.peg.109	2	155862.2.Ga0150972_1026	91568	91167	-	 predicted aconitase subunit 2_Ga0150972_1026105
+fig|155862.2.peg.106	fig|155862.2.peg.108	3	155862.2.Ga0150972_1026	90238	91170	+	 inosine-guanosine kinase /cytidine kinase_Ga0150972_1026104
+fig|155862.5.peg.671	fig|155862.5.peg.669	-3	155862.5.Ga0150975_1799	29170	28196	-	hypothetical protein_Ga0150975_179930
+fig|155862.5.peg.671	fig|155862.5.peg.668	-2	155862.5.Ga0150975_1799	27075	28199	+	 membrane-bound hydrogenase subunit ehbN_Ga0150975_179929
+fig|155862.5.peg.671	fig|155862.5.peg.670	-1	155862.5.Ga0150975_1799	30169	29546	-	ecorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase_Ga0150975_179931
+fig|155862.5.peg.671	fig|155862.5.peg.671	0	155862.5.Ga0150975_1799	32275	31634	-	multiple antibiotic resistance protein_Ga0150975_179932
+fig|155862.5.peg.671	fig|155862.5.peg.672	1	155862.5.Ga0150975_1799	32560	33498	+	 cyclic pyranopterin monophosphate synthase subunit MoaA_Ga0150975_179933
+fig|155862.5.peg.671	fig|155862.5.peg.673	2	155862.5.Ga0150975_1799	35074	33800	-	 3-isopropylmalate dehydratase, large subuni_Ga0150975_179934
+fig|155862.5.peg.671	fig|155862.5.peg.674	3	155862.5.Ga0150975_1799	36946	35621	-	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase_Ga0150975_179935
+fig|155862.2.peg.143	fig|155862.2.peg.140	-3	155862.2.Ga0150972_1029	13898	14734	+	geranylgeranylglycerol-phosphate geranylgeranyltransferase_Ga0150972_102915
+fig|155862.2.peg.143	fig|155862.2.peg.141	-2	155862.2.Ga0150972_1029	14752	15399	+	GTP-binding protein EngB required for normal cell division_Ga0150972_102916
+fig|155862.2.peg.143	fig|155862.2.peg.142	-1	155862.2.Ga0150972_1029	18072	15400	-	 DNA-directed RNA polymerase, subunit A'_Ga0150972_102917
+fig|155862.2.peg.143	fig|155862.2.peg.143	0	155862.2.Ga0150972_1029	19919	18084	-	 DNA-directed RNA polymerase, subunit B'_Ga0150972_102918
+fig|155862.2.peg.143	fig|155862.2.peg.144	1	155862.2.Ga0150972_1029	21481	19949	-	 DNA-directed RNA polymerase, subunit B_Ga0150972_102919
+fig|155862.2.peg.143	fig|155862.2.peg.145	2	155862.2.Ga0150972_1029	21751	21515	-	 DNA-directed RNA polymerase, subunit H_Ga0150972_102920
+fig|155862.2.peg.143	fig|155862.2.peg.146	3	155862.2.Ga0150972_1029	21892	22440	+	ative methanogenesis marker protein 17_Ga0150972_102921
+fig|155862.5.peg.808	fig|155862.5.peg.805	-3	155862.5.Ga0150975_1882	2664	2116	-	ative methanogenesis marker protein 17_Ga0150975_18824
+fig|155862.5.peg.808	fig|155862.5.peg.806	-2	155862.5.Ga0150975_1882	2849	3085	+	 DNA-directed RNA polymerase, subunit H_Ga0150975_18825
+fig|155862.5.peg.808	fig|155862.5.peg.807	-1	155862.5.Ga0150975_1882	3163	4707	+	 DNA-directed RNA polymerase, subunit B_Ga0150975_18826
+fig|155862.5.peg.808	fig|155862.5.peg.808	0	155862.5.Ga0150975_1882	4758	6593	+	 DNA-directed RNA polymerase, subunit B'_Ga0150975_18827
+fig|155862.5.peg.808	fig|155862.5.peg.809	1	155862.5.Ga0150975_1882	6869	9541	+	 DNA-directed RNA polymerase, subunit A'_Ga0150975_18828
+fig|155862.5.peg.808	fig|155862.5.peg.810	2	155862.5.Ga0150975_1882	10790	10140	-	GTP-binding protein EngB required for normal cell division_Ga0150975_18829
+fig|155862.5.peg.808	fig|155862.5.peg.811	3	155862.5.Ga0150975_1882	11904	11068	-	geranylgeranylglycerol-phosphate geranylgeranyltransferase_Ga0150975_188210
+fig|155862.2.peg.144	fig|155862.2.peg.141	-3	155862.2.Ga0150972_1029	14752	15399	+	GTP-binding protein EngB required for normal cell division_Ga0150972_102916
+fig|155862.2.peg.144	fig|155862.2.peg.142	-2	155862.2.Ga0150972_1029	18072	15400	-	 DNA-directed RNA polymerase, subunit A'_Ga0150972_102917
+fig|155862.2.peg.144	fig|155862.2.peg.143	-1	155862.2.Ga0150972_1029	19919	18084	-	 DNA-directed RNA polymerase, subunit B'_Ga0150972_102918
+fig|155862.2.peg.144	fig|155862.2.peg.144	0	155862.2.Ga0150972_1029	21481	19949	-	 DNA-directed RNA polymerase, subunit B_Ga0150972_102919
+fig|155862.2.peg.144	fig|155862.2.peg.145	1	155862.2.Ga0150972_1029	21751	21515	-	 DNA-directed RNA polymerase, subunit H_Ga0150972_102920
+fig|155862.2.peg.144	fig|155862.2.peg.146	2	155862.2.Ga0150972_1029	21892	22440	+	ative methanogenesis marker protein 17_Ga0150972_102921
+fig|155862.2.peg.144	fig|155862.2.peg.147	3	155862.2.Ga0150972_1029	22715	22443	-	ACT domain-containing protein_Ga0150972_102922
+fig|155862.5.peg.807	fig|155862.5.peg.804	-3	155862.5.Ga0150975_1882	942	1982	+	 malate dehydrogenase (NAD) /L-sulfolactate dehydrogenase_Ga0150975_18823
+fig|155862.5.peg.807	fig|155862.5.peg.805	-2	155862.5.Ga0150975_1882	2664	2116	-	ative methanogenesis marker protein 17_Ga0150975_18824
+fig|155862.5.peg.807	fig|155862.5.peg.806	-1	155862.5.Ga0150975_1882	2849	3085	+	 DNA-directed RNA polymerase, subunit H_Ga0150975_18825
+fig|155862.5.peg.807	fig|155862.5.peg.807	0	155862.5.Ga0150975_1882	3163	4707	+	 DNA-directed RNA polymerase, subunit B_Ga0150975_18826
+fig|155862.5.peg.807	fig|155862.5.peg.808	1	155862.5.Ga0150975_1882	4758	6593	+	 DNA-directed RNA polymerase, subunit B'_Ga0150975_18827
+fig|155862.5.peg.807	fig|155862.5.peg.809	2	155862.5.Ga0150975_1882	6869	9541	+	 DNA-directed RNA polymerase, subunit A'_Ga0150975_18828
+fig|155862.5.peg.807	fig|155862.5.peg.810	3	155862.5.Ga0150975_1882	10790	10140	-	GTP-binding protein EngB required for normal cell division_Ga0150975_18829
+fig|155862.2.peg.145	fig|155862.2.peg.142	-3	155862.2.Ga0150972_1029	18072	15400	-	 DNA-directed RNA polymerase, subunit A'_Ga0150972_102917
+fig|155862.2.peg.145	fig|155862.2.peg.143	-2	155862.2.Ga0150972_1029	19919	18084	-	 DNA-directed RNA polymerase, subunit B'_Ga0150972_102918
+fig|155862.2.peg.145	fig|155862.2.peg.144	-1	155862.2.Ga0150972_1029	21481	19949	-	 DNA-directed RNA polymerase, subunit B_Ga0150972_102919
+fig|155862.2.peg.145	fig|155862.2.peg.145	0	155862.2.Ga0150972_1029	21751	21515	-	 DNA-directed RNA polymerase, subunit H_Ga0150972_102920
+fig|155862.2.peg.145	fig|155862.2.peg.146	1	155862.2.Ga0150972_1029	21892	22440	+	ative methanogenesis marker protein 17_Ga0150972_102921
+fig|155862.2.peg.145	fig|155862.2.peg.147	2	155862.2.Ga0150972_1029	22715	22443	-	ACT domain-containing protein_Ga0150972_102922
+fig|155862.2.peg.145	fig|155862.2.peg.148	3	155862.2.Ga0150972_1029	23601	22735	-	nitrogen fixation protein NifB_Ga0150972_102923
+fig|155862.5.peg.806	fig|155862.5.peg.803	-3	155862.5.Ga0150975_1882	411	932	+	RNA-intron endonuclease_Ga0150975_18822
+fig|155862.5.peg.806	fig|155862.5.peg.804	-2	155862.5.Ga0150975_1882	942	1982	+	 malate dehydrogenase (NAD) /L-sulfolactate dehydrogenase_Ga0150975_18823
+fig|155862.5.peg.806	fig|155862.5.peg.805	-1	155862.5.Ga0150975_1882	2664	2116	-	ative methanogenesis marker protein 17_Ga0150975_18824
+fig|155862.5.peg.806	fig|155862.5.peg.806	0	155862.5.Ga0150975_1882	2849	3085	+	 DNA-directed RNA polymerase, subunit H_Ga0150975_18825
+fig|155862.5.peg.806	fig|155862.5.peg.807	1	155862.5.Ga0150975_1882	3163	4707	+	 DNA-directed RNA polymerase, subunit B_Ga0150975_18826
+fig|155862.5.peg.806	fig|155862.5.peg.808	2	155862.5.Ga0150975_1882	4758	6593	+	 DNA-directed RNA polymerase, subunit B'_Ga0150975_18827
+fig|155862.5.peg.806	fig|155862.5.peg.809	3	155862.5.Ga0150975_1882	6869	9541	+	 DNA-directed RNA polymerase, subunit A'_Ga0150975_18828
+fig|155862.2.peg.167	fig|155862.2.peg.163	-3	155862.2.Ga0150972_1029	36198	35590	-	hypothetical protein_Ga0150972_102938
+fig|155862.2.peg.167	fig|155862.2.peg.164	-2	155862.2.Ga0150972_1029	36267	37538	+	TIGR00300 family protein_Ga0150972_102939
+fig|155862.2.peg.167	fig|155862.2.peg.165	-1	155862.2.Ga0150972_1029	37550	38209	+	hypothetical protein_Ga0150972_102940
+fig|155862.2.peg.167	fig|155862.2.peg.167	0	155862.2.Ga0150972_1029	39362	38970	-	hypothetical protein_Ga0150972_102942
+fig|155862.2.peg.167	fig|155862.2.peg.166	1	155862.2.Ga0150972_1029	38218	38973	+	 precorrin-3 methyltransferase_Ga0150972_102941
+fig|155862.2.peg.167	fig|155862.2.peg.168	2	155862.2.Ga0150972_1029	39976	39380	-	 16S rRNA m(2)G 1207 methyltransferase_Ga0150972_102943
+fig|155862.2.peg.167	fig|155862.2.peg.169	3	155862.2.Ga0150972_1029	40678	39986	-	Glycosyltransferase involved in cell wall bisynthesis_Ga0150972_102944
+fig|155862.5.peg.104	fig|155862.5.peg.104	0	155862.5.Ga0150975_1092	505	98	-	TM2 domain-containing membrane protein YozV_Ga0150975_10921
+fig|155862.5.peg.104	fig|155862.5.peg.105	1	155862.5.Ga0150975_1092	1128	532	-	 16S rRNA m(2)G 1207 methyltransferase_Ga0150975_10922
+fig|155862.5.peg.104	fig|155862.5.peg.106	2	155862.5.Ga0150975_1092	1831	1139	-	Glycosyl transferase family 2_Ga0150975_10923
+fig|155862.5.peg.104	fig|155862.5.peg.107	3	155862.5.Ga0150975_1092	2144	1851	-	FeoA domain-containing protein_Ga0150975_10924
+fig|155862.2.peg.269	fig|155862.2.peg.267	-3	155862.2.Ga0150972_1082	17246	16689	-	4-hydroxy-3-polyprenylbenzoate decarboxylase_Ga0150972_108221
+fig|155862.2.peg.269	fig|155862.2.peg.268	-2	155862.2.Ga0150972_1082	18145	17258	-	DNA-binding transcriptional regulator, LysR family_Ga0150972_108222
+fig|155862.2.peg.269	fig|155862.2.peg.270	-1	155862.2.Ga0150972_1082	20548	19283	-	 dihydroorotase_Ga0150972_108224
+fig|155862.2.peg.269	fig|155862.2.peg.269	0	155862.2.Ga0150972_1082	18236	19297	+	ative pyruvate formate lyase activating enzyme_Ga0150972_108223
+fig|155862.2.peg.269	fig|155862.2.peg.271	1	155862.2.Ga0150972_1082	21659	20928	-	Organic radical activating enzyme_Ga0150972_108225
+fig|155862.2.peg.269	fig|155862.2.peg.272	2	155862.2.Ga0150972_1082	22091	21672	-	 archease family protein_Ga0150972_108226
+fig|155862.2.peg.269	fig|155862.2.peg.273	3	155862.2.Ga0150972_1082	23637	22096	-	arbamoyltransferase_Ga0150972_108227
+fig|155862.5.peg.296	fig|155862.5.peg.293	-3	155862.5.Ga0150975_1340	1206	991	-	hypothetical protein_Ga0150975_13403
+fig|155862.5.peg.296	fig|155862.5.peg.294	-2	155862.5.Ga0150975_1340	1954	3222	+	 dihydroorotase_Ga0150975_13404
+fig|155862.5.peg.296	fig|155862.5.peg.295	-1	155862.5.Ga0150975_1340	3227	3469	+	hypothetical protein_Ga0150975_13405
+fig|155862.5.peg.296	fig|155862.5.peg.296	0	155862.5.Ga0150975_1340	4925	3843	-	ative pyruvate formate lyase activating enzyme_Ga0150975_13406
+fig|155862.5.peg.296	fig|155862.5.peg.297	1	155862.5.Ga0150975_1340	5326	5718	+	GDP-mannose 4,6-dehydratase_Ga0150975_13407
+fig|155862.5.peg.296	fig|155862.5.peg.298	2	155862.5.Ga0150975_1340	5842	6360	+	GDP-mannose 4,6-dehydratase_Ga0150975_13408
+fig|155862.5.peg.296	fig|155862.5.peg.299	3	155862.5.Ga0150975_1340	6425	7054	+	Glycosyl transferase family 2_Ga0150975_13409
+fig|155862.2.peg.341	fig|155862.2.peg.338	-3	155862.2.Ga0150972_1095	31715	32170	+	 SSU ribosomal protein S15P_Ga0150972_109530
+fig|155862.2.peg.341	fig|155862.2.peg.339	-2	155862.2.Ga0150972_1095	32456	33934	+	acetolactate synthase-1/2/3 large subuni_Ga0150972_109531
+fig|155862.2.peg.341	fig|155862.2.peg.340	-1	155862.2.Ga0150972_1095	33998	34927	+	Topoisomerase DNA binding C4 zinc finge_Ga0150972_109532
+fig|155862.2.peg.341	fig|155862.2.peg.341	0	155862.2.Ga0150972_1095	34932	35987	+	hypothetical protein_Ga0150972_109533
+fig|155862.2.peg.341	fig|155862.2.peg.342	1	155862.2.Ga0150972_1095	36008	37510	+	 phenylalanyl-tRNA synthetase, alpha subuni_Ga0150972_109534
+fig|155862.2.peg.341	fig|155862.2.peg.343	2	155862.2.Ga0150972_1095	37523	37939	+	Tetrapyrrole (Corrin/Porphyrin) Methylases_Ga0150972_109535
+fig|155862.2.peg.341	fig|155862.2.peg.344	3	155862.2.Ga0150972_1095	37881	38279	+	Tetrapyrrole (Corrin/Porphyrin) Methylases_Ga0150972_109536
+fig|155862.5.peg.65	fig|155862.5.peg.63	-2	155862.5.Ga0150975_1052	3460	2	-	Eco57I restriction-modification methylase_Ga0150975_10521
+fig|155862.5.peg.65	fig|155862.5.peg.64	-1	155862.5.Ga0150975_1052	7121	3405	-	Type III restriction enzyme, res subuni_Ga0150975_10522
+fig|155862.5.peg.65	fig|155862.5.peg.65	0	155862.5.Ga0150975_1052	8355	7288	-	hypothetical protein_Ga0150975_10523
+fig|155862.5.peg.65	fig|155862.5.peg.66	1	155862.5.Ga0150975_1052	9289	8360	-	Topoisomerase DNA binding C4 zinc finge_Ga0150975_10524
+fig|155862.5.peg.65	fig|155862.5.peg.67	2	155862.5.Ga0150975_1052	10842	9358	-	acetolactate synthase-1/2/3 large subuni_Ga0150975_10525
+fig|155862.5.peg.65	fig|155862.5.peg.68	3	155862.5.Ga0150975_1052	11483	11100	-	mRNA interferase MazF_Ga0150975_10526
+fig|155862.2.peg.38	fig|155862.2.peg.34	-3	155862.2.Ga0150972_1026	28513	29070	+	adenine phosphoribosyltransferase_Ga0150972_102628
+fig|155862.2.peg.38	fig|155862.2.peg.36	-2	155862.2.Ga0150972_1026	31441	29660	-	 molybdopterin molybdochelatase_Ga0150972_102630
+fig|155862.2.peg.38	fig|155862.2.peg.35	-1	155862.2.Ga0150972_1026	29079	29663	+	3-hexulose-6-phosphate synthase_Ga0150972_102629
+fig|155862.2.peg.38	fig|155862.2.peg.38	0	155862.2.Ga0150972_1026	32724	32464	-	TIGR00304 family protein_Ga0150972_102632
+fig|155862.2.peg.38	fig|155862.2.peg.37	1	155862.2.Ga0150972_1026	31604	32467	+	 branched chain amino acid aminotransferase apoenzyme_Ga0150972_102631
+fig|155862.2.peg.38	fig|155862.2.peg.39	2	155862.2.Ga0150972_1026	34084	32756	-	 protein translocase subunit secY/sec61 alpha_Ga0150972_102633
+fig|155862.2.peg.38	fig|155862.2.peg.40	3	155862.2.Ga0150972_1026	34552	34121	-	 LSU ribosomal protein L15P_Ga0150972_102634
+fig|155862.5.peg.264	fig|155862.5.peg.260	-3	155862.5.Ga0150975_1327	38254	38808	+	adenine phosphoribosyltransferase_Ga0150975_132737
+fig|155862.5.peg.264	fig|155862.5.peg.261	-2	155862.5.Ga0150975_1327	39060	39650	+	3-hexulose-6-phosphate synthase_Ga0150975_132738
+fig|155862.5.peg.264	fig|155862.5.peg.262	-1	155862.5.Ga0150975_1327	41976	40162	-	 molybdopterin molybdochelatase_Ga0150975_132739
+fig|155862.5.peg.264	fig|155862.5.peg.264	0	155862.5.Ga0150975_1327	43656	43378	-	TIGR00304 family protein_Ga0150975_132741
+fig|155862.5.peg.264	fig|155862.5.peg.263	1	155862.5.Ga0150975_1327	42518	43381	+	 branched chain amino acid aminotransferase apoenzyme_Ga0150975_132740
+fig|155862.5.peg.264	fig|155862.5.peg.265	2	155862.5.Ga0150975_1327	44387	43866	-	2'-5' RNA ligase_Ga0150975_132742
+fig|155862.5.peg.264	fig|155862.5.peg.266	3	155862.5.Ga0150975_1327	44553	44392	-	hypothetical protein_Ga0150975_132743
+fig|155862.2.peg.526	fig|155862.2.peg.523	-3	155862.2.Ga0150972_1143	35290	35412	+	hypothetical protein_Ga0150972_114342
+fig|155862.2.peg.526	fig|155862.2.peg.524	-2	155862.2.Ga0150972_1143	35372	35572	+	hypothetical protein_Ga0150972_114343
+fig|155862.2.peg.526	fig|155862.2.peg.525	-1	155862.2.Ga0150972_1143	35879	36142	+	hypothetical protein_Ga0150972_114344
+fig|155862.2.peg.526	fig|155862.2.peg.526	0	155862.2.Ga0150972_1143	36158	37159	+	Glycosyltransferase, GT2 family_Ga0150972_114345
+fig|155862.2.peg.526	fig|155862.2.peg.527	1	155862.2.Ga0150972_1143	37211	38434	+	Glycosyltransferase involved in cell wall bisynthesis_Ga0150972_114346
+fig|155862.2.peg.526	fig|155862.2.peg.528	2	155862.2.Ga0150972_1143	39108	38575	-	hypothetical protein_Ga0150972_114347
+fig|155862.2.peg.526	fig|155862.2.peg.529	3	155862.2.Ga0150972_1143	40775	39591	-	Glycosyltransferase involved in cell wall bisynthesis_Ga0150972_114348
+fig|155862.5.peg.123	fig|155862.5.peg.122	-1	155862.5.Ga0150975_1125	76	957	+	Methyltransferase domain-containing protein_Ga0150975_11251
+fig|155862.5.peg.123	fig|155862.5.peg.123	0	155862.5.Ga0150975_1125	975	1976	+	Glycosyltransferase, GT2 family_Ga0150975_11252
+fig|155862.5.peg.123	fig|155862.5.peg.124	1	155862.5.Ga0150975_1125	1997	4813	+	Glycosyltransferase involved in cell wall bisynthesis_Ga0150975_11253
+fig|155862.2.peg.533	fig|155862.2.peg.530	-3	155862.2.Ga0150972_1143	41561	40785	-	ihydroorotate dehydrogenase electron transfer subuni_Ga0150972_114349
+fig|155862.2.peg.533	fig|155862.2.peg.531	-2	155862.2.Ga0150972_1143	41908	41534	-	 phosphoribosyl-AMP cyclohydrolase_Ga0150972_114350
+fig|155862.2.peg.533	fig|155862.2.peg.532	-1	155862.2.Ga0150972_1143	41960	42118	+	Class III signal peptide_Ga0150972_114351
+fig|155862.2.peg.533	fig|155862.2.peg.533	0	155862.2.Ga0150972_1143	42648	42124	-	Uncharacterized membrane protein YqhA_Ga0150972_114352
+fig|155862.2.peg.533	fig|155862.2.peg.534	1	155862.2.Ga0150972_1143	42721	43479	+	ecorrin-6A/cobalt-precorrin-6A reductase_Ga0150972_114353
+fig|155862.2.peg.533	fig|155862.2.peg.535	2	155862.2.Ga0150972_1143	43572	43937	+	hypothetical protein_Ga0150972_114354
+fig|155862.2.peg.533	fig|155862.2.peg.536	3	155862.2.Ga0150972_1143	43934	44914	+	ative methanogenesis marker protein 12_Ga0150972_114355
+fig|155862.5.peg.593	fig|155862.5.peg.590	-3	155862.5.Ga0150975_1683	5336	4356	-	ative methanogenesis marker protein 12_Ga0150975_16835
+fig|155862.5.peg.593	fig|155862.5.peg.591	-2	155862.5.Ga0150975_1683	5698	5345	-	hypothetical protein_Ga0150975_16836
+fig|155862.5.peg.593	fig|155862.5.peg.592	-1	155862.5.Ga0150975_1683	6570	5788	-	ecorrin-6A/cobalt-precorrin-6A reductase_Ga0150975_16837
+fig|155862.5.peg.593	fig|155862.5.peg.593	0	155862.5.Ga0150975_1683	6957	7493	+	Uncharacterized membrane protein YqhA_Ga0150975_16838
+fig|155862.5.peg.593	fig|155862.5.peg.594	1	155862.5.Ga0150975_1683	7870	7571	-	hypothetical protein_Ga0150975_16839
+fig|155862.5.peg.593	fig|155862.5.peg.595	2	155862.5.Ga0150975_1683	8342	7821	-	hypothetical protein_Ga0150975_168310
+fig|155862.5.peg.593	fig|155862.5.peg.596	3	155862.5.Ga0150975_1683	9137	8361	-	ihydroorotate dehydrogenase electron transfer subuni_Ga0150975_168311
+fig|155862.2.peg.534	fig|155862.2.peg.531	-3	155862.2.Ga0150972_1143	41908	41534	-	 phosphoribosyl-AMP cyclohydrolase_Ga0150972_114350
+fig|155862.2.peg.534	fig|155862.2.peg.532	-2	155862.2.Ga0150972_1143	41960	42118	+	Class III signal peptide_Ga0150972_114351
+fig|155862.2.peg.534	fig|155862.2.peg.533	-1	155862.2.Ga0150972_1143	42648	42124	-	Uncharacterized membrane protein YqhA_Ga0150972_114352
+fig|155862.2.peg.534	fig|155862.2.peg.534	0	155862.2.Ga0150972_1143	42721	43479	+	ecorrin-6A/cobalt-precorrin-6A reductase_Ga0150972_114353
+fig|155862.2.peg.534	fig|155862.2.peg.535	1	155862.2.Ga0150972_1143	43572	43937	+	hypothetical protein_Ga0150972_114354
+fig|155862.2.peg.534	fig|155862.2.peg.536	2	155862.2.Ga0150972_1143	43934	44914	+	ative methanogenesis marker protein 12_Ga0150972_114355
+fig|155862.2.peg.534	fig|155862.2.peg.537	3	155862.2.Ga0150972_1143	46093	44915	-	 2,3-di-O-geranylgeranylglyceryl phosphate reductase_Ga0150972_114356
+fig|155862.5.peg.592	fig|155862.5.peg.589	-3	155862.5.Ga0150975_1683	2111	3337	+	 2,3-di-O-geranylgeranylglyceryl phosphate reductase_Ga0150975_16834
+fig|155862.5.peg.592	fig|155862.5.peg.590	-2	155862.5.Ga0150975_1683	5336	4356	-	ative methanogenesis marker protein 12_Ga0150975_16835
+fig|155862.5.peg.592	fig|155862.5.peg.591	-1	155862.5.Ga0150975_1683	5698	5345	-	hypothetical protein_Ga0150975_16836
+fig|155862.5.peg.592	fig|155862.5.peg.592	0	155862.5.Ga0150975_1683	6570	5788	-	ecorrin-6A/cobalt-precorrin-6A reductase_Ga0150975_16837
+fig|155862.5.peg.592	fig|155862.5.peg.593	1	155862.5.Ga0150975_1683	6957	7493	+	Uncharacterized membrane protein YqhA_Ga0150975_16838
+fig|155862.5.peg.592	fig|155862.5.peg.594	2	155862.5.Ga0150975_1683	7870	7571	-	hypothetical protein_Ga0150975_16839
+fig|155862.5.peg.592	fig|155862.5.peg.595	3	155862.5.Ga0150975_1683	8342	7821	-	hypothetical protein_Ga0150975_168310
+fig|155862.2.peg.535	fig|155862.2.peg.532	-3	155862.2.Ga0150972_1143	41960	42118	+	Class III signal peptide_Ga0150972_114351
+fig|155862.2.peg.535	fig|155862.2.peg.533	-2	155862.2.Ga0150972_1143	42648	42124	-	Uncharacterized membrane protein YqhA_Ga0150972_114352
+fig|155862.2.peg.535	fig|155862.2.peg.534	-1	155862.2.Ga0150972_1143	42721	43479	+	ecorrin-6A/cobalt-precorrin-6A reductase_Ga0150972_114353
+fig|155862.2.peg.535	fig|155862.2.peg.535	0	155862.2.Ga0150972_1143	43572	43937	+	hypothetical protein_Ga0150972_114354
+fig|155862.2.peg.535	fig|155862.2.peg.536	1	155862.2.Ga0150972_1143	43934	44914	+	ative methanogenesis marker protein 12_Ga0150972_114355
+fig|155862.2.peg.535	fig|155862.2.peg.537	2	155862.2.Ga0150972_1143	46093	44915	-	 2,3-di-O-geranylgeranylglyceryl phosphate reductase_Ga0150972_114356
+fig|155862.2.peg.535	fig|155862.2.peg.538	3	155862.2.Ga0150972_1143	46259	46095	-	4Fe-4S binding domain-containing protein_Ga0150972_114357
+fig|155862.5.peg.591	fig|155862.5.peg.588	-3	155862.5.Ga0150975_1683	1316	2092	+	ihydroorotate dehydrogenase electron transfer subuni_Ga0150975_16833
+fig|155862.5.peg.591	fig|155862.5.peg.589	-2	155862.5.Ga0150975_1683	2111	3337	+	 2,3-di-O-geranylgeranylglyceryl phosphate reductase_Ga0150975_16834
+fig|155862.5.peg.591	fig|155862.5.peg.590	-1	155862.5.Ga0150975_1683	5336	4356	-	ative methanogenesis marker protein 12_Ga0150975_16835
+fig|155862.5.peg.591	fig|155862.5.peg.591	0	155862.5.Ga0150975_1683	5698	5345	-	hypothetical protein_Ga0150975_16836
+fig|155862.5.peg.591	fig|155862.5.peg.592	1	155862.5.Ga0150975_1683	6570	5788	-	ecorrin-6A/cobalt-precorrin-6A reductase_Ga0150975_16837
+fig|155862.5.peg.591	fig|155862.5.peg.593	2	155862.5.Ga0150975_1683	6957	7493	+	Uncharacterized membrane protein YqhA_Ga0150975_16838
+fig|155862.5.peg.591	fig|155862.5.peg.594	3	155862.5.Ga0150975_1683	7870	7571	-	hypothetical protein_Ga0150975_16839
+fig|155862.2.peg.541	fig|155862.2.peg.538	-3	155862.2.Ga0150972_1143	46259	46095	-	4Fe-4S binding domain-containing protein_Ga0150972_114357
+fig|155862.2.peg.541	fig|155862.2.peg.539	-2	155862.2.Ga0150972_1143	46355	47368	+	 Adenylosuccinate synthetase_Ga0150972_114358
+fig|155862.2.peg.541	fig|155862.2.peg.540	-1	155862.2.Ga0150972_1143	47383	48990	+	 lysyl-tRNA synthetase, class I_Ga0150972_114359
+fig|155862.2.peg.541	fig|155862.2.peg.541	0	155862.2.Ga0150972_1143	49643	48996	-	Uncharacterized protein (DUF2258)_Ga0150972_114360
+fig|155862.2.peg.541	fig|155862.2.peg.542	1	155862.2.Ga0150972_1143	50237	49698	-	2-oxoglutarate ferredoxin oxidoreductase subunit gamma_Ga0150972_114361
+fig|155862.2.peg.541	fig|155862.2.peg.543	2	155862.2.Ga0150972_1143	51055	50243	-	 2-oxoglutarate ferredoxin oxidoreductase, beta subuni_Ga0150972_114362
+fig|155862.2.peg.541	fig|155862.2.peg.544	3	155862.2.Ga0150972_1143	51863	51072	-	hypothetical protein_Ga0150972_114363
+fig|155862.5.peg.311	fig|155862.5.peg.309	-2	155862.5.Ga0150975_1349	62	499	+	adenylosuccinate synthase_Ga0150975_13491
+fig|155862.5.peg.311	fig|155862.5.peg.310	-1	155862.5.Ga0150975_1349	519	2126	+	 lysyl-tRNA synthetase, class I_Ga0150975_13492
+fig|155862.5.peg.311	fig|155862.5.peg.311	0	155862.5.Ga0150975_1349	3151	2504	-	hypothetical protein_Ga0150975_13493
+fig|155862.5.peg.311	fig|155862.5.peg.312	1	155862.5.Ga0150975_1349	4050	3511	-	2-oxoglutarate ferredoxin oxidoreductase subunit gamma_Ga0150975_13494
+fig|155862.5.peg.311	fig|155862.5.peg.313	2	155862.5.Ga0150975_1349	4874	4062	-	 2-oxoglutarate ferredoxin oxidoreductase, beta subuni_Ga0150975_13495
+fig|155862.5.peg.311	fig|155862.5.peg.314	3	155862.5.Ga0150975_1349	5746	4952	-	hypothetical protein_Ga0150975_13496
+fig|155862.2.peg.759	fig|155862.2.peg.756	-3	155862.2.Ga0150972_1199	4517	5536	+	Predicted PurR-regulated permease PerM_Ga0150972_11997
+fig|155862.2.peg.759	fig|155862.2.peg.757	-2	155862.2.Ga0150972_1199	7764	5725	-	Predicted component of the ribosome quality control (RQC) complex, YloA/Tae2 family, contains fibronectin-binding (FbpA) and DUF814 domains_Ga0150972_11999
+fig|155862.2.peg.759	fig|155862.2.peg.758	-1	155862.2.Ga0150972_1199	7804	8286	+	Protein of unknown function (DUF2666)_Ga0150972_119910
+fig|155862.2.peg.759	fig|155862.2.peg.759	0	155862.2.Ga0150972_1199	8289	9806	+	 AMP phosphorylase_Ga0150972_119911
+fig|155862.2.peg.759	fig|155862.2.peg.760	1	155862.2.Ga0150972_1199	9817	11034	+	 predicted aconitase subunit 1_Ga0150972_119912
+fig|155862.2.peg.759	fig|155862.2.peg.762	2	155862.2.Ga0150972_1199	12862	11690	-	heromone shutdown-related protein TraB_Ga0150972_119914
+fig|155862.2.peg.759	fig|155862.2.peg.761	3	155862.2.Ga0150972_1199	11037	11693	+	 3-dehydroquinate dehydratase_Ga0150972_119913
+fig|155862.5.peg.738	fig|155862.5.peg.735	-3	155862.5.Ga0150975_1842	13457	12969	-	ein of unknown function (DUF814)_Ga0150975_184210
+fig|155862.5.peg.738	fig|155862.5.peg.736	-2	155862.5.Ga0150975_1842	15012	13480	-	Predicted component of the ribosome quality control (RQC) complex, YloA/Tae2 family, contains fibronectin-binding (FbpA) and DUF814 domains_Ga0150975_184211
+fig|155862.5.peg.738	fig|155862.5.peg.737	-1	155862.5.Ga0150975_1842	15305	15757	+	Protein of unknown function (DUF2666)_Ga0150975_184212
+fig|155862.5.peg.738	fig|155862.5.peg.738	0	155862.5.Ga0150975_1842	15760	17271	+	 AMP phosphorylase_Ga0150975_184213
+fig|155862.5.peg.738	fig|155862.5.peg.739	1	155862.5.Ga0150975_1842	17282	18493	+	 predicted aconitase subunit 1_Ga0150975_184214
+fig|155862.5.peg.738	fig|155862.5.peg.741	2	155862.5.Ga0150975_1842	20825	19653	-	heromone shutdown-related protein TraB_Ga0150975_184216
+fig|155862.5.peg.738	fig|155862.5.peg.740	3	155862.5.Ga0150975_1842	19000	19656	+	 3-dehydroquinate dehydratase_Ga0150975_184215
+fig|155862.2.peg.809	fig|155862.2.peg.806	-3	155862.2.Ga0150972_1199	61400	60372	-	iron complex transport system permease protein_Ga0150972_119959
+fig|155862.2.peg.809	fig|155862.2.peg.807	-2	155862.2.Ga0150972_1199	62570	61422	-	iron complex transport system substrate-binding protein_Ga0150972_119960
+fig|155862.2.peg.809	fig|155862.2.peg.808	-1	155862.2.Ga0150972_1199	62694	63389	+	RNA methyltransferase, TrmH family, group 1_Ga0150972_119961
+fig|155862.2.peg.809	fig|155862.2.peg.809	0	155862.2.Ga0150972_1199	63788	63393	-	 translation initiation factor 5A precursor (eIF-5A)_Ga0150972_119962
+fig|155862.2.peg.809	fig|155862.2.peg.810	1	155862.2.Ga0150972_1199	63918	64271	+	hypothetical protein_Ga0150972_119963
+fig|155862.2.peg.809	fig|155862.2.peg.811	2	155862.2.Ga0150972_1199	64274	65629	+	RNA nucleotidyltransferase (CCA-adding enzyme)_Ga0150972_119964
+fig|155862.2.peg.809	fig|155862.2.peg.812	3	155862.2.Ga0150972_1199	65641	66564	+	Tetratricopeptide repeat-containing protein_Ga0150972_119965
+fig|155862.5.peg.494	fig|155862.5.peg.491	-3	155862.5.Ga0150975_1620	7536	6508	-	iron complex transport system permease protein_Ga0150975_16207
+fig|155862.5.peg.494	fig|155862.5.peg.492	-2	155862.5.Ga0150975_1620	8719	7571	-	iron complex transport system substrate-binding protein_Ga0150975_16208
+fig|155862.5.peg.494	fig|155862.5.peg.493	-1	155862.5.Ga0150975_1620	8996	9691	+	RNA methyltransferase, TrmH family, group 1_Ga0150975_16209
+fig|155862.5.peg.494	fig|155862.5.peg.494	0	155862.5.Ga0150975_1620	10365	9970	-	 translation initiation factor 5A precursor (eIF-5A)_Ga0150975_162010
+fig|155862.5.peg.494	fig|155862.5.peg.495	1	155862.5.Ga0150975_1620	10728	11099	+	hypothetical protein_Ga0150975_162011
+fig|155862.5.peg.494	fig|155862.5.peg.496	2	155862.5.Ga0150975_1620	11107	12459	+	RNA nucleotidyltransferase (CCA-adding enzyme)_Ga0150975_162012
+fig|155862.5.peg.494	fig|155862.5.peg.497	3	155862.5.Ga0150975_1620	14187	12964	-	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase_Ga0150975_162014
+fig|155862.2.peg.862	fig|155862.2.peg.858	-3	155862.2.Ga0150972_1203	17500	18606	+	DNA repair exonuclease SbcCD nuclease subuni_Ga0150972_120319
+fig|155862.2.peg.862	fig|155862.2.peg.860	-2	155862.2.Ga0150972_1203	19981	19583	-	Predicted transcriptional regula_Ga0150972_120321
+fig|155862.2.peg.862	fig|155862.2.peg.861	-1	155862.2.Ga0150972_1203	20150	21565	+	 aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B_Ga0150972_120322
+fig|155862.2.peg.862	fig|155862.2.peg.862	0	155862.2.Ga0150972_1203	21592	22812	+	Predicted arabinose efflux permease, MFS family_Ga0150972_120323
+fig|155862.2.peg.862	fig|155862.2.peg.863	1	155862.2.Ga0150972_1203	22818	23468	+	ein-L-isoaspartate(D-aspartate) O-methyltransferase_Ga0150972_120324
+fig|155862.2.peg.862	fig|155862.2.peg.864	2	155862.2.Ga0150972_1203	23508	23753	+	small redox-active disulfide protein 2_Ga0150972_120325
+fig|155862.2.peg.862	fig|155862.2.peg.865	3	155862.2.Ga0150972_1203	23763	24152	+	Predicted metal-binding protein_Ga0150972_120326
+fig|155862.5.peg.720	fig|155862.5.peg.717	-3	155862.5.Ga0150975_1824	13759	15462	+	 formylmethanofuran dehydrogenase, subunit A_Ga0150975_182417
+fig|155862.5.peg.720	fig|155862.5.peg.718	-2	155862.5.Ga0150975_1824	15506	16321	+	 formylmethanofuran dehydrogenase, subunit C_Ga0150975_182418
+fig|155862.5.peg.720	fig|155862.5.peg.719	-1	155862.5.Ga0150975_1824	17583	16930	-	ein-L-isoaspartate(D-aspartate) O-methyltransferase_Ga0150975_182419
+fig|155862.5.peg.720	fig|155862.5.peg.720	0	155862.5.Ga0150975_1824	18814	17588	-	Multidrug resistance protein_Ga0150975_182420
+fig|155862.5.peg.720	fig|155862.5.peg.721	1	155862.5.Ga0150975_1824	21144	19729	-	 aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B_Ga0150975_182421
+fig|155862.5.peg.720	fig|155862.5.peg.722	2	155862.5.Ga0150975_1824	21799	22191	+	Predicted transcriptional regula_Ga0150975_182422
+fig|155862.5.peg.720	fig|155862.5.peg.723	3	155862.5.Ga0150975_1824	22209	22784	+	ibonuclease Z_Ga0150975_182423
+fig|155862.2.peg.190	fig|155862.2.peg.187	-3	155862.2.Ga0150972_1040	5252	7102	+	 acetolactate synthase, large subuni_Ga0150972_10408
+fig|155862.2.peg.190	fig|155862.2.peg.188	-2	155862.2.Ga0150972_1040	7115	7645	+	 acetolactate synthase, small subuni_Ga0150972_10409
+fig|155862.2.peg.190	fig|155862.2.peg.189	-1	155862.2.Ga0150972_1040	7674	9209	+	 seryl-tRNA synthetase_Ga0150972_104010
+fig|155862.2.peg.190	fig|155862.2.peg.190	0	155862.2.Ga0150972_1040	9222	9737	+	e-rRNA-processing protein TSR3_Ga0150972_104011
+fig|155862.2.peg.190	fig|155862.2.peg.191	1	155862.2.Ga0150972_1040	9742	9885	+	 LSU ribosomal protein L40E_Ga0150972_104012
+fig|155862.2.peg.190	fig|155862.2.peg.192	2	155862.2.Ga0150972_1040	9908	10774	+	UTP--glucose-1-phosphate uridylyltransferase_Ga0150972_104013
+fig|155862.2.peg.190	fig|155862.2.peg.193	3	155862.2.Ga0150972_1040	10780	11205	+	 6,7-dimethyl-8-ribityllumazine synthase_Ga0150972_104014
+fig|155862.5.peg.402	fig|155862.5.peg.399	-3	155862.5.Ga0150975_1421	10533	10249	-	hypothetical protein_Ga0150975_142115
+fig|155862.5.peg.402	fig|155862.5.peg.400	-2	155862.5.Ga0150975_1421	11394	10543	-	 UDP-glucose pyrophosphorylase_Ga0150975_142116
+fig|155862.5.peg.402	fig|155862.5.peg.401	-1	155862.5.Ga0150975_1421	11674	11531	-	 LSU ribosomal protein L40E_Ga0150975_142117
+fig|155862.5.peg.402	fig|155862.5.peg.402	0	155862.5.Ga0150975_1421	12229	11714	-	e-rRNA-processing protein TSR3_Ga0150975_142118
+fig|155862.5.peg.605	fig|155862.5.peg.602	-3	155862.5.Ga0150975_1685	1531	1247	-	hypothetical protein_Ga0150975_16854
+fig|155862.5.peg.605	fig|155862.5.peg.603	-2	155862.5.Ga0150975_1685	2392	1541	-	UTP--glucose-1-phosphate uridylyltransferase_Ga0150975_16855
+fig|155862.5.peg.605	fig|155862.5.peg.604	-1	155862.5.Ga0150975_1685	2672	2529	-	large subunit ribosomal protein L40e_Ga0150975_16856
+fig|155862.5.peg.605	fig|155862.5.peg.605	0	155862.5.Ga0150975_1685	3227	2712	-	e-rRNA-processing protein TSR3_Ga0150975_16857
+fig|155862.5.peg.605	fig|155862.5.peg.606	1	155862.5.Ga0150975_1685	5575	4037	-	 seryl-tRNA synthetase_Ga0150975_16858
+fig|155862.5.peg.605	fig|155862.5.peg.607	2	155862.5.Ga0150975_1685	6335	5802	-	 acetolactate synthase, small subuni_Ga0150975_16859
+fig|155862.5.peg.605	fig|155862.5.peg.608	3	155862.5.Ga0150975_1685	8198	6348	-	 acetolactate synthase, large subuni_Ga0150975_168510
+fig|155862.2.peg.1097	fig|155862.2.peg.1094	-3	155862.2.Ga0150972_1249	12800	11997	-	arbonic anhydrase_Ga0150972_124911
+fig|155862.2.peg.1097	fig|155862.2.peg.1095	-2	155862.2.Ga0150972_1249	12965	13822	+	 Heat shock protein. Metallo peptidase. MEROPS family M48B_Ga0150972_124912
+fig|155862.2.peg.1097	fig|155862.2.peg.1096	-1	155862.2.Ga0150972_1249	13915	14136	+	histone H3/H4_Ga0150972_124913
+fig|155862.2.peg.1097	fig|155862.2.peg.1097	0	155862.2.Ga0150972_1249	17552	14214	-	 Reverse gyrase_Ga0150972_124914
+fig|155862.2.peg.1097	fig|155862.2.peg.1098	1	155862.2.Ga0150972_1249	18455	17562	-	Thiamine biosynthesis protein (ThiI)_Ga0150972_124915
+fig|155862.2.peg.1097	fig|155862.2.peg.1099	2	155862.2.Ga0150972_1249	19680	18484	-	RNA pseudouridine13 synthase_Ga0150972_124916
+fig|155862.2.peg.1097	fig|155862.2.peg.1100	3	155862.2.Ga0150972_1249	20314	19664	-	hypothetical protein_Ga0150972_124917
+fig|155862.5.peg.816	fig|155862.5.peg.813	-3	155862.5.Ga0150975_1883	1	573	+	hypothetical protein_Ga0150975_18831
+fig|155862.5.peg.816	fig|155862.5.peg.814	-2	155862.5.Ga0150975_1883	1862	663	-	RNA pseudouridine13 synthase_Ga0150975_18832
+fig|155862.5.peg.816	fig|155862.5.peg.815	-1	155862.5.Ga0150975_1883	2401	3294	+	Phosphoadenosine phosphosulfate reductase family protein_Ga0150975_18833
+fig|155862.5.peg.816	fig|155862.5.peg.816	0	155862.5.Ga0150975_1883	3307	6645	+	 Reverse gyrase_Ga0150975_18834
+fig|155862.5.peg.816	fig|155862.5.peg.817	1	155862.5.Ga0150975_1883	7725	7534	-	hypothetical protein_Ga0150975_18835
+fig|155862.5.peg.816	fig|155862.5.peg.818	2	155862.5.Ga0150975_1883	8014	7736	-	hypothetical protein_Ga0150975_18836
+fig|155862.5.peg.816	fig|155862.5.peg.819	3	155862.5.Ga0150975_1883	9350	8109	-	UDP-N-acetylmuramyl pentapeptide synthase_Ga0150975_18837
+fig|155862.2.peg.629	fig|155862.2.peg.626	-3	155862.2.Ga0150972_1159	27629	26499	-	hypothetical protein_Ga0150972_115929
+fig|155862.2.peg.629	fig|155862.2.peg.627	-2	155862.2.Ga0150972_1159	27819	28871	+	Biotin synthase_Ga0150972_115930
+fig|155862.2.peg.629	fig|155862.2.peg.628	-1	155862.2.Ga0150972_1159	29411	29007	-	Uncharacterized protein, UPF0333 family_Ga0150972_115931
+fig|155862.2.peg.629	fig|155862.2.peg.629	0	155862.2.Ga0150972_1159	30348	29425	-	hypothetical protein_Ga0150972_115932
+fig|155862.2.peg.629	fig|155862.2.peg.630	1	155862.2.Ga0150972_1159	31666	30353	-	hypothetical protein_Ga0150972_115933
+fig|155862.2.peg.629	fig|155862.2.peg.631	2	155862.2.Ga0150972_1159	31790	33046	+	succinyl-diaminopimelate desuccinylase_Ga0150972_115934
+fig|155862.2.peg.629	fig|155862.2.peg.632	3	155862.2.Ga0150972_1159	33066	35765	+	 alanyl-tRNA synthetase_Ga0150972_115935
+fig|155862.5.peg.377	fig|155862.5.peg.374	-3	155862.5.Ga0150975_1420	2030	1107	-	 formylmethanofuran dehydrogenase, subunit B_Ga0150975_14203
+fig|155862.5.peg.377	fig|155862.5.peg.375	-2	155862.5.Ga0150975_1420	2414	2052	-	hypothetical protein_Ga0150975_14204
+fig|155862.5.peg.377	fig|155862.5.peg.376	-1	155862.5.Ga0150975_1420	2778	3914	+	hypothetical protein_Ga0150975_14205
+fig|155862.5.peg.377	fig|155862.5.peg.377	0	155862.5.Ga0150975_1420	3919	4866	+	hypothetical protein_Ga0150975_14206
+fig|155862.5.peg.377	fig|155862.5.peg.378	1	155862.5.Ga0150975_1420	4881	5282	+	Uncharacterized protein, UPF0333 family_Ga0150975_14207
+fig|155862.5.peg.377	fig|155862.5.peg.379	2	155862.5.Ga0150975_1420	7083	6031	-	Biotin synthase_Ga0150975_14208
+fig|155862.5.peg.377	fig|155862.5.peg.380	3	155862.5.Ga0150975_1420	7426	8562	+	hypothetical protein_Ga0150975_14209

@@ -1,0 +1,21 @@
+fig|155862.4.peg.588	fig|155862.4.peg.585	-3	155862.4.Ga0150974_1322	5250	4111	-	molybdate transport system ATP-binding protein_Ga0150974_13226
+fig|155862.4.peg.588	fig|155862.4.peg.586	-2	155862.4.Ga0150974_1322	6060	5272	-	molybdate transport system permease protein_Ga0150974_13227
+fig|155862.4.peg.588	fig|155862.4.peg.587	-1	155862.4.Ga0150974_1322	6900	6082	-	molybdate transport system substrate-binding protein_Ga0150974_13228
+fig|155862.4.peg.588	fig|155862.4.peg.588	0	155862.4.Ga0150974_1322	8415	7096	-	nitrogenase molybdenum-iron protein beta chain_Ga0150974_13229
+fig|155862.4.peg.588	fig|155862.4.peg.589	1	155862.4.Ga0150974_1322	9955	8612	-	nitrogenase molybdenum-iron protein alpha chain_Ga0150974_132210
+fig|155862.4.peg.588	fig|155862.4.peg.590	2	155862.4.Ga0150974_1322	10570	10205	-	hypothetical protein_Ga0150974_132211
+fig|155862.4.peg.588	fig|155862.4.peg.591	3	155862.4.Ga0150974_1322	11955	10549	-	nitrogenase molybdenum-iron protein beta chain_Ga0150974_132212
+fig|155862.4.peg.591	fig|155862.4.peg.588	-3	155862.4.Ga0150974_1322	8415	7096	-	nitrogenase molybdenum-iron protein beta chain_Ga0150974_13229
+fig|155862.4.peg.591	fig|155862.4.peg.589	-2	155862.4.Ga0150974_1322	9955	8612	-	nitrogenase molybdenum-iron protein alpha chain_Ga0150974_132210
+fig|155862.4.peg.591	fig|155862.4.peg.590	-1	155862.4.Ga0150974_1322	10570	10205	-	hypothetical protein_Ga0150974_132211
+fig|155862.4.peg.591	fig|155862.4.peg.591	0	155862.4.Ga0150974_1322	11955	10549	-	nitrogenase molybdenum-iron protein beta chain_Ga0150974_132212
+fig|155862.4.peg.591	fig|155862.4.peg.592	1	155862.4.Ga0150974_1322	13384	11948	-	nitrogenase molybdenum-iron protein alpha chain_Ga0150974_132213
+fig|155862.4.peg.591	fig|155862.4.peg.593	2	155862.4.Ga0150974_1322	13876	13490	-	 nitrogen regulatory protein P-II family_Ga0150974_132214
+fig|155862.4.peg.591	fig|155862.4.peg.594	3	155862.4.Ga0150974_1322	14207	13890	-	 nitrogen regulatory protein P-II family_Ga0150974_132215
+fig|155862.4.peg.594	fig|155862.4.peg.591	-3	155862.4.Ga0150974_1322	11955	10549	-	nitrogenase molybdenum-iron protein beta chain_Ga0150974_132212
+fig|155862.4.peg.594	fig|155862.4.peg.592	-2	155862.4.Ga0150974_1322	13384	11948	-	nitrogenase molybdenum-iron protein alpha chain_Ga0150974_132213
+fig|155862.4.peg.594	fig|155862.4.peg.593	-1	155862.4.Ga0150974_1322	13876	13490	-	 nitrogen regulatory protein P-II family_Ga0150974_132214
+fig|155862.4.peg.594	fig|155862.4.peg.594	0	155862.4.Ga0150974_1322	14207	13890	-	 nitrogen regulatory protein P-II family_Ga0150974_132215
+fig|155862.4.peg.594	fig|155862.4.peg.595	1	155862.4.Ga0150974_1322	15233	14379	-	nitrogenase iron protein NifH_Ga0150974_132216
+fig|155862.4.peg.594	fig|155862.4.peg.596	2	155862.4.Ga0150974_1322	15559	16539	+	UDP-glucuronate 4-epimerase_Ga0150974_132217
+fig|155862.4.peg.594	fig|155862.4.peg.597	3	155862.4.Ga0150974_1322	16617	18503	+	asparagine synthase (glutamine-hydrolysing)_Ga0150974_132218

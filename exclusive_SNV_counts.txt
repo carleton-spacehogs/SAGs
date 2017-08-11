@@ -1,0 +1,8 @@
+File describing average numbers of SNVs per ORF for clusters exclusive to elements in SAG column
+SAG	SNV count
+all	258.4952380952381
+E23	148.66666666666666
+N22	121.35099337748345
+M21	87.21052631578948
+K20	64.93478260869566
+C09	112.89015151515152
