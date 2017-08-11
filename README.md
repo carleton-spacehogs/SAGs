@@ -15,6 +15,7 @@ As of latest commit, SAGs contains the following folders and files:
 7. [python_files](#g): scripts, pipelines, custom and classes written in Python 3. Awaiting further organization and documentation.
 8. [SAG_data_files](#h): .gff, .ko, .fa assembly files, .tsv contig names (from anvi-script), and .names_map files for each SAG. This is all the data that needs to be integrated for non-ITEP/non-PAML analysis.
 9. [variability.zip](#i): zipped anvi'o outputs for SNV and SAAV variability profiles for all 5 SAGs.
+10. [papers](#j): the papers I've been reading and pre-existing info on the research
 
 ## Folder Overviews
 ### bubble_plots <a name="a"></a>
@@ -26,8 +27,7 @@ As of latest commit, SAGs contains the following folders and files:
 ### python_files <a name="g"></a>
 ### SAG_data_files <a name="h"></a>
 ### variability.zip <a name="i"></a>
-
-
+### papers <a name="j"></a>
 
 
 ### Contributors
