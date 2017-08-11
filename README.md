@@ -46,16 +46,18 @@ The Python object modules are:
 * *SNV*, 
 * *SAAV* 
 * *Contig*
-* *ORF* \
+* *ORF*
 
 View the module files for a list of data attributes stored in these objects. \
 An array of functions for reading the input files and constructing lists of Sequence objects exist:
+
 * make_contig_ORF_and_SNV_lists.py
 * make_SNVs_and_Contigs.py
 * makeSequenceObjects.py
 * mergeORFpaData.py
 * organizeKO.py
-* populateContigLists.py \
+* populateContigLists.py
+
 These functions must be called in order to properly initialize the Sequence objects.
 
 
