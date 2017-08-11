@@ -1,0 +1,95 @@
+Cellular Processes : 422.0
+Human Diseases : 475.5
+Genetic Information Processing : 303.418604651
+Environmental Information Processing : 337.208333333
+Organismal Systems : 803.0
+None : 203.767123288
+Metabolism : 327.129186603
+END OF A
+Nucleotide metabolism : 276.875
+Biosynthesis of other secondary metabolites : 259.454545455
+Glycan biosynthesis and metabolism : 273.0
+Metabolism of terpenoids and polyketides : 350.8
+Lipid metabolism : 249.6
+Endocrine system : 803.0
+Carbohydrate metabolism : 391.473684211
+Energy metabolism : 316.4
+Metabolism of other amino acids : 422.75
+Metabolism of cofactors and vitamins : 289.611111111
+Membrane transport : 337.208333333
+Xenobiotics biodegradation and metabolism : 543.142857143
+Amino acid metabolism : 319.23255814
+Folding, sorting and degradation : 142.857142857
+Cell growth and death : 422.0
+Translation : 346.733333333
+Infectious diseases : 475.5
+None : 203.767123288
+Transcription : 276.0
+Replication and repair : 273.25
+END OF B
+ Selenocompound metabolism : 422.75
+ Phenylpropanoid biosynthesis : 144.0
+ Phenylalanine, tyrosine and tryptophan biosynthesis : 295.111111111
+ Nitrogen metabolism : 248.0
+ Glycine, serine and threonine metabolism : 254.5
+ Pyrimidine metabolism : 280.833333333
+ Glyoxylate and dicarboxylate metabolism : 413.0
+ Alanine, aspartate and glutamate metabolism : 375.0
+ African trypanosomiasis : 482.0
+ Oxytocin signaling pathway : 803.0
+ Thiamine metabolism : 368.25
+ Sulfur relay system : 70.0
+ Arginine and proline metabolism : 276.0
+ RNA degradation : 407.0
+ Bacterial secretion system : 424.666666667
+ N-Glycan biosynthesis : 273.0
+ Carbon fixation pathways in prokaryotes : 538.5
+ Citrate cycle (TCA cycle) : 355.25
+ Tyrosine metabolism : 440.0
+ Valine, leucine and isoleucine biosynthesis : 437.0
+ Sulfur metabolism : 548.0
+ Methane metabolism : 290.481481481
+ Cell cycle - Caulobacter : 422.0
+ Chloroalkane and chloroalkene degradation : 573.666666667
+ Basal transcription factors : 276.0
+ Pyruvate metabolism : 454.666666667
+ Acarbose and validamycin biosynthesis : 299.0
+ Terpenoid backbone biosynthesis : 350.8
+ Drug metabolism - other enzymes : 360.0
+ Protein export : 128.5
+ Cysteine and methionine metabolism : 403.666666667
+ Tropane, piperidine and pyridine alkaloid biosynthesis : 364.0
+ Ribosome biogenesis in eukaryotes : 263.4
+ Protein processing in endoplasmic reticulum : 98.0
+ Glycerophospholipid metabolism : 249.6
+ Histidine metabolism : 177.0
+ Streptomycin biosynthesis : 211.0
+ Aminoacyl-tRNA biosynthesis : 463.733333333
+ mRNA surveillance pathway : 366.0
+ Nicotinate and nicotinamide metabolism : 241.6
+ Biotin metabolism : 185.0
+ Pentose phosphate pathway : 314.666666667
+ Butanoate metabolism : 378.0
+ Lysine biosynthesis : 376.25
+ ABC transporters : 324.714285714
+ Pantothenate and CoA biosynthesis : 255.0
+ Amino sugar and nucleotide sugar metabolism : 395.818181818
+ Starch and sucrose metabolism : 583.0
+ Phenazine biosynthesis : 251.0
+ Porphyrin and chlorophyll metabolism : 358.285714286
+ Glycolysis / Gluconeogenesis : 438.5
+ Purine metabolism : 275.555555556
+ Monobactam biosynthesis : 274.666666667
+ RNA transport : 195.888888889
+ Folate biosynthesis : 182.666666667
+ Epithelial cell signaling in Helicobacter pylori infection : 469.0
+ Oxidative phosphorylation : 339.5
+ DNA replication : 226.0
+ Nucleotide excision repair : 181.0
+ Base excision repair : 343.0
+ Riboflavin metabolism : 207.4
+ One carbon pool by folate : 194.0
+None : 203.767123288
+ C5-Branched dibasic acid metabolism : 374.0
+ Arginine biosynthesis : 337.0
+END OF C
